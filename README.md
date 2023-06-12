@@ -7,7 +7,7 @@
 
 - 📫 Meu contato é **fabricio.costa92@gmail.com**
 
-- 📄 Tenho experiência em automação industrial e, venho estudando linguagem de programação. Onde adquiri a habilidade de desenvolver automações RPA, análise de dados com processo ETL e modelagem de aprendizado de máquina. [https://www.linkedin.com/in/fabr%C3%ADcio-costa-aa5027266/](https://www.linkedin.com/in/fabr%C3%ADcio-costa-aa5027266/)
+- 📄 Tenho experiência em automação industrial e, venho estudando linguagem de programação Python. Onde adquiri a habilidade de desenvolver automações RPA, análise de dados com processo ETL e modelagem de aprendizado de máquina. [https://www.linkedin.com/in/fabr%C3%ADcio-costa-aa5027266/](https://www.linkedin.com/in/fabr%C3%ADcio-costa-aa5027266/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
