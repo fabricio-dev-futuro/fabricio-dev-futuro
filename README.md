@@ -1,22 +1,43 @@
-<h1 align="center">Olá 👋, eu sou Fabrício</h1>
-<h3 align="center">Me identifico com projetos de Data Science e Machine Learning no ramo da programação.</h3>
+<h1 align="center">Olá! Eu sou Fabrício Costa</h1>
+<h3 align="center">Trabalho na área de Data Science e Machine Learning usando linguagens de programação variadas.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python.**
+- 📊 Hoje trabalho com análise de dados e criação de dashboards.
 
-- 💬 Pergunte-me sobre: **Python; MySQL e Power BI.**
+- 📚 Atualmente estou estudando **SQL.**
 
-- 📫 Meu contato é **fabricio.costa92@gmail.com**
+- 📄 Iniciei meus estudos na área de tecnologia em 2023 e já possuo conhecimentos nas linguagens de programação Python, R, M e SQL. Focando e me especializando em análise de dados, processos de ETL e modelagem de aprendizado de máquina.
 
-- 📄 Tenho experiência em automação industrial e, venho estudando linguagem de programação Python. Onde adquiri a habilidade de desenvolver automações RPA, análise de dados com processo ETL e modelagem de aprendizado de máquina. [https://www.linkedin.com/in/fabr%C3%ADcio-costa-aa5027266/](https://www.linkedin.com/in/fabr%C3%ADcio-costa-aa5027266/)
+##
+<div>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabricio-dev-futuro&show_icons=true&theme=dracula&include_all_commits=trye&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-dev-futuro&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fabr%c3%adcio-costa-aa5027266/" height="30" width="40" /></a>
-<a href="https://instagram.com/fabricioo_costaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@fabricioo_costaa" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div style="display": inline_block"><br>
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img  alt="tensorflow" width="40" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+
+
+
+##
+<div>
+<a href= "fabricio.costa92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/fabrício-costaa" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a herf= 5524992821130 target="_blank"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/fabricioo_costaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
+
+
+
 
 
 
@@ -27,6 +48,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Connect with me:</h3>
 
 fabricio-dev-futuro/fabricio-dev-futuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
