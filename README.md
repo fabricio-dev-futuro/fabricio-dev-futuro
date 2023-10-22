@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Fabrício Costa</h1>
-<h3 align="center">Trabalho na área de Data Science e Machine Learning usando linguagens de programação variadas.</h3>
+<h3 align="center">Meu foco é trabalhar com análise de dados aplicando linguagens de programação e criação de modelos de machine learning.</h3>
 
 - 📊 Hoje trabalho com análise de dados e criação de dashboards.
 
@@ -10,7 +10,7 @@
 ##
 <div>
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabricio-dev-futuro&show_icons=true&theme=dracula&include_all_commits=trye&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-dev-futuro&layout=compact&langs_count=16&theme=dracula"/>
+  
 </div>
 
 
@@ -29,7 +29,7 @@
 
 ##
 <div>
-<a href= "https://mail.google.com/mail/fabricio.costa92" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fabr%C3%ADcio-costaa/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a herf= 5524992821130 target="_blank"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/fabricioo_costaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -42,11 +42,7 @@
 
 
 <!---
-- 👋 Hi, I’m @fabricio-dev-futuro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-dev-futuro&layout=compact&langs_count=16&theme=dracula"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
