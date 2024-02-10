@@ -1,11 +1,11 @@
 <h1 align="center">Olá! Eu sou Fabrício Costa</h1>
-<h3 align="center">Meu foco é trabalhar com análise de dados aplicando linguagens de programação e criação de modelos de machine learning.</h3>
+<h3 align="center">Meu foco é trabalhar com análise de dados aplicando linguagens de programação e vizualização dessas análises.</h3>
 
 - 📊 Hoje trabalho com análise de dados e criação de dashboards.
 
 - 📚 Atualmente estou estudando **SQL.**
 
-- 📄 Iniciei meus estudos na área de tecnologia em 2023 e já adquiri conhecimentos nas linguagens de programação Python, R,  M e DAX. Tenho conhecimento em desenvolvimento de códigos em Python, mas no momento venho focando no uso da linguagem para análise de dados, fazendo processos de ETL, gráficos e modelagem de aprendizado de máquina.
+- 📄 Iniciei meus estudos na área de tecnologia em 2023 e já adquiri conhecimentos nas linguagens de programação Python, R,  M e DAX. Tenho conhecimento em desenvolvimento de códigos back-end em Python, mas no momento venho focando em fazer análise de dados, fazendo processos de ETL, construindo análises de negócio e gráficos.
 
 ##
 <div>
