@@ -5,7 +5,9 @@
 
 - 📚 Atualmente estou estudando **SQL.**
 
-- 📄 Iniciei meus estudos na área de tecnologia em 2023 e já adquiri conhecimentos nas linguagens de programação Python, R,  M e DAX. Tenho conhecimento em desenvolvimento de códigos back-end em Python, mas no momento venho focando em fazer análise de dados, fazendo processos de ETL, construindo análises de negócio e gráficos.
+- 📄 Iniciei meus estudos na área de tecnologia em 2023 e já adquiri conhecimentos nas linguagens de programação Python, R,  M e DAX. Tenho conhecimento em desenvolvimento de códigos back-end em Python, mas no momento venho focando em fazer processos de ETL, construir análises para resolver problemas de negócio e expo-las em gráficos interativos.
+
+- Em breve estarei apenas trabalhando como DBA Oracle.
 
 ##
 <div>
