@@ -7,7 +7,7 @@
 
 - 📄 Iniciei meus estudos na área de tecnologia em 2023 e já adquiri conhecimentos nas linguagens de programação Python, R,  M e DAX. Tenho conhecimento em desenvolvimento de códigos back-end em Python, mas no momento venho focando em fazer processos de ETL, construir análises e apresenta-las em gráficos interativos para auxiliar tomadores de decisão a resolver problemas de negócio.
 
-- Em breve estarei apenas trabalhando como DBA Oracle.
+- Minha expectativa para o futuro é especialização em DBA Oracle.
 
 ##
 <div>
